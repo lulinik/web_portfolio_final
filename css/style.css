@@ -1,16 +1,43 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&display=swap");
-.botonera {
+h1,
+h2,
+h3 {
+  color: rgb(59, 81, 69);
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+header img {
+  width: 100%;
+}
+
+body {
   background-color: #eeeeee;
+}
+
+h1 {
+  color: #4c5460;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+.botonera {
+  background-color: #e8f982;
 }
 .botonera ul li {
   margin-left: 5px;
 }
 .botonera ul li a {
   color: #4c5460;
+  font: "Montserrat", sans-serif;
   font-size: 1em;
 }
 .botonera ul li a:hover {
   color: #ee693f;
+}
+.botonera img {
+  width: 150px;
 }
 
 /*# sourceMappingURL=style.css.map */

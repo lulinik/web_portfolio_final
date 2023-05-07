@@ -1,0 +1,22 @@
+h1,
+h2,
+h3 {
+  color: rgb(59, 81, 69);
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+header img {
+  width: 100%;
+}
+
+body {
+  background-color: $bgColor
+}
+
+h1 {
+  color: $mainColor;
+  font-family: $mainFont;
+  font-weight: $fontBold;
+  font-size: $textLg;
+}

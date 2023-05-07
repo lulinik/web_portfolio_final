@@ -1,15 +1,19 @@
 .botonera {
-    background-color: $bgColor;
+    background-color: $secondaryColor;
     ul{
         li{
             margin-left: 5px;
             a{
                 color: $mainColor;
+                font: $mainFont;
                 font-size: $textMd;
                 &:hover{
                     color: $keyColor;
                 }
             }
         }
+    }
+    img{
+        width: 150px;
     }
 }
