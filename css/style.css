@@ -30,8 +30,9 @@ h1 {
 }
 .botonera ul li a {
   color: #4c5460;
-  font: "Montserrat", sans-serif;
-  font-size: 1em;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9em;
+  font-weight: 600;
 }
 .botonera ul li a:hover {
   color: #ee693f;

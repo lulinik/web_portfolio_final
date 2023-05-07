@@ -5,8 +5,9 @@
             margin-left: 5px;
             a{
                 color: $mainColor;
-                font: $mainFont;
-                font-size: $textMd;
+                font-family: $mainFont;
+                font-size: $textSm;
+                font-weight: $fontBold;
                 &:hover{
                     color: $keyColor;
                 }
