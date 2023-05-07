@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&display=swap");
+.botonera {
+  background-color: #eeeeee;
+}
+.botonera ul li {
+  margin-left: 5px;
+}
+.botonera ul li a {
+  color: #4c5460;
+  font-size: 1em;
+}
+.botonera ul li a:hover {
+  color: #ee693f;
+}
+
+/*# sourceMappingURL=style.css.map */
