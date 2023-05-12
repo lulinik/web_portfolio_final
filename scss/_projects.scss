@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 420px 420px 420px; /* cuatro columnas de ancho igual */
+    grid-gap: 0px; /* Espacio entre las celdas de la cuadrícula */
+  }
+  
+  .grid-item {
+    img {
+        width: 420px; /* Establece un ancho fijo para la imagen */
+        margin: 0;
+        padding: 0;
+    /* Estilos para los elementos de la cuadrícula */
+    }
+  }
