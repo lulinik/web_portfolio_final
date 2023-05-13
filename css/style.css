@@ -1,5 +1,24 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;600&display=swap");
+.botonera {
+  background-color: #e8f982;
+}
+.botonera ul li {
+  margin-left: 5px;
+}
+.botonera ul li a {
+  color: #4c5460;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+.botonera ul li a:hover {
+  color: #ee693f;
+}
+.botonera img {
+  width: 150px;
+}
+
 h1,
 h2,
 h3 {
@@ -56,25 +75,6 @@ footer a {
   color: #eeeeee;
   font-size: 0.9rem;
   margin-bottom: 2px;
-}
-
-.botonera {
-  background-color: #e8f982;
-}
-.botonera ul li {
-  margin-left: 5px;
-}
-.botonera ul li a {
-  color: #4c5460;
-  font-family: "Montserrat", sans-serif;
-  font-size: 0.9em;
-  font-weight: 600;
-}
-.botonera ul li a:hover {
-  color: #ee693f;
-}
-.botonera img {
-  width: 150px;
 }
 
 .grid-container {
