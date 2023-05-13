@@ -12,6 +12,8 @@ header img {
 
 body {
   background-color: $bgColor
+
+  
 }
 
 h1 {
@@ -24,6 +26,15 @@ h1 {
 .d-flex{
     display: flex;
 }
+
+.btn{
+  border: none;
+}
+
+.btn:hover{
+  background-color: $keyColor;
+}
+
 
 footer{
     padding: 10px 30px;
